@@ -31,10 +31,7 @@ Disease Prevalence: Tracking Hypertension, Diabetes, and Digestive health.
 
 Energy & Sleep: Impact of processed foods on daily vitality and rest quality.
 ![image alt](https://github.com/suhailapathoor35-dotcom/PUBLIC-HEALTH-AND-FASTFOOD-IMPACT-ANALYSIS/blob/62a0531fdb1c49902c043465fe40ef3ba08e3af7/DASHBOARD/PAGE2.png)
-## 🧬 Data Insights & MethodologyThe analysis utilizes a "Health Score" calculation to quantify the impact of diet:
-$$Health\ Score = \frac{(Activity\ Level \times 0.4) + (Nutritional\ Balance \times 0.6)}{Fast\ Food\ Frequency}$$Key Findings:The 3x Rule: Individuals eating fast food more than 
-3 times a week show a 25% higher risk of elevated blood pressure.Age Vulnerability: The 18–25 age demographic accounts for the highest caloric surplus.Sedentary Multiplier: Health scores 
-drop significantly when high fast-food intake is combined with low physical activity.
+
 ## 👤 Author
 Suhaila Pathoor
 
